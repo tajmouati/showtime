@@ -1,6 +1,6 @@
 language: French
 native: Français
-maintainer: Niconico27
+maintainer: Tajmouati Abdelhak
 #
 # ./glwskins/default/cmdmenu.view
 #
@@ -24,7 +24,7 @@ msg: Désactiver la mise en veille
 
 id: Exit %s
 # Missing translation
-msg: 
+msg: Quitter %s
 
 id: Go to Home screen
 msg: Retour à la page d'accueil
@@ -154,11 +154,11 @@ msg: Paramètres vidéo
 #
 id: %d kb/s
 # Missing translation
-msg: 
+msg: %d kb/s
 
 id: Bitrate:
 # Missing translation
-msg: 
+msg: Bitrate:
 
 #
 # ./glwskins/default/log.view
@@ -249,7 +249,7 @@ msg: Date:
 #
 id: %s %s or newer is required
 # Missing translation
-msg: 
+msg: %s %s ou plus récent est requis
 
 id: Author: 
 msg: Auteur:
@@ -329,11 +329,11 @@ msg: Mettre à jour
 #
 id: Unable to open %s
 # Missing translation
-msg: 
+msg: Impossible d'ouvrir %s
 
 id: resource
 # Missing translation
-msg: 
+msg: ressource
 
 #
 # ./glwskins/default/pages/playqueue.view
@@ -352,7 +352,7 @@ msg: Pause
 #
 id: %s is up to date
 # Missing translation
-msg: 
+msg: %s est à jour
 
 id: An error occured during download
 msg: Une erreur est apparue pendant le téléchargement
@@ -392,7 +392,7 @@ msg: Mise en place du patch %s
 
 id: Restarting %s in %d seconds...
 # Missing translation
-msg: 
+msg: Redémarrage de %s dans %d secondes...
 
 id: Retry...
 msg: Nouvelle tentative...
@@ -415,11 +415,11 @@ msg:
 
 id: Audio codec:
 # Missing translation
-msg: 
+msg: Codec audio
 
 id: Audio queue len:
 # Missing translation
-msg: 
+msg: Longueur de la file d'attente audio :
 
 id: Audio volume adjustment: %d dB
 msg: Ajustement du volume audio: %d dB
@@ -429,7 +429,7 @@ msg: Le CPU est trop faible pour décoder cette vidéo
 
 id: Download speed:
 # Missing translation
-msg: 
+msg: Vitesse de téléchargement :
 
 id: Packet buffer:
 # Missing translation
@@ -444,7 +444,9 @@ msg:
 
 id: Remote queue drops:
 # Missing translation
-msg: 
+msg: Abandons de file d'attente à distance:
+
+
 
 id: Remote queue len:
 # Missing translation
@@ -452,7 +454,7 @@ msg:
 
 id: Source:
 # Missing translation
-msg: 
+msg: Source:
 
 id: Video bitrate:
 # Missing translation
@@ -460,7 +462,7 @@ msg:
 
 id: Video codec:
 # Missing translation
-msg: 
+msg: Codec video:
 
 id: Video decode time:
 # Missing translation
@@ -499,11 +501,12 @@ msg: Nom d'utilisateur
 #
 id: No, Start over
 # Missing translation
-msg: 
+msg: Non, recommence
+
 
 id: Resume %s from %s
 # Missing translation
-msg: 
+msg: Reprendre %s depuis %s
 
 #
 # ./glwskins/default/screensaver.view
